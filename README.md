@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/humbl3lalis/frontend_mentor_product_review_card_component.git)
+- Live Site URL: [Vercel](https://frontend-mentor-product-review-card-component-solution.vercel.app/)
 
 ## My process
 I use CSS grid and flexbox together to be responsive
